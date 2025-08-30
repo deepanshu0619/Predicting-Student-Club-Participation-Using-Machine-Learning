@@ -39,8 +39,5 @@ Predict student club participation using features such as interest level and fre
 
 ---
 
-## 📊 Output
 
-Example evaluation metrics:
-# Predicting-Student-Club-Participation-Using-Machine-Learning
-# Predicting-Student-Club-Participation-Using-Machine-Learning
+
